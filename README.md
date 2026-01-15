@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shruti Kumari </h1>
 
 <h3 align="center">
-Aspiring Software Engineer | Web Developer | MERN Stack | Machine Learning Enthusiast
+Aspiring Software Engineer | Web Developer | Machine Learning Enthusiast
 </h3>
 
 <br/>
