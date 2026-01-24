@@ -33,7 +33,7 @@ Aspiring Software Engineer | Web Developer | Machine Learning Enthusiast
 
 <p align="left">
 
-<a href="https://leetcode.com/u/dey_shruti18/" target="_blank">
+<a href="https://www.linkedin.com/in/shrutikumari11/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
 </a>&nbsp;&nbsp;&nbsp;
 
