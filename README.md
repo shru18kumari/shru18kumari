@@ -21,7 +21,7 @@ Aspiring Software Engineer | Web Developer | Machine Learning Enthusiast
 - 📫 How to reach me: **shrutikumarisaram@gmail.com**  
 
 - 📄 Want to know about my expertise:  
-  👉 **[Click here to view my resume](https://drive.google.com/file/d/1RxMpfRPT6wQSAtT2zzzwTuuV0Rb_gzj6/view?usp=sharing)**  
+  👉 **[Click here to view my resume](https://drive.google.com/file/d/1NVXEOfXZTCvXM_CdjnYqgKvXVvfYpbO3/view?usp=sharing)**  
 
 - ⚡ Fun fact: *I love turning ideas into real-world tech solutions*  
 
@@ -41,7 +41,7 @@ Aspiring Software Engineer | Web Developer | Machine Learning Enthusiast
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
 </a>&nbsp;&nbsp;&nbsp;
 
-<a href="https://www.instagram.com/yashbansal78/" target="_blank">
+<a href="https://www.instagram.com/dey_shruti18/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40" />
 </a>&nbsp;&nbsp;&nbsp;
 
