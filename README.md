@@ -37,7 +37,7 @@ Aspiring Software Engineer | Web Developer | Machine Learning Enthusiast
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
 </a>&nbsp;&nbsp;&nbsp;
 
-<a href="https://github.com/ya78bansal" target="_blank">
+<a href="https://github.com/shru18kumari" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
 </a>&nbsp;&nbsp;&nbsp;
 
